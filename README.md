@@ -16,7 +16,6 @@ This project helped me sharpen my NLP skills and understand the deployment proce
 
 Would love your feedback — have you built anything similar?
 
-🙏 Thanks to @Codveda Technologies for the inspiration/support!
 
 
 
