@@ -14,7 +14,6 @@ I then deployed the project using Streamlit to make it interactive and accessibl
 
 This project helped me sharpen my NLP skills and understand the deployment process for ML apps. Thinking about adding BERT next!
 
-Would love your feedback — have you built anything similar?
 
 
 
